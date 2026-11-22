@@ -4,6 +4,8 @@ A playable Unity prototype made in one week for GameCraft NUS 2025.
 
 A, D to move left and right and Spacebar to jump
 
+Play it: https://commoz.itch.io/dont
+
 ## My role
 Core gameplay systems.
 
